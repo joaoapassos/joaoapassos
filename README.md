@@ -14,16 +14,16 @@
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
 
+### Estudos
+
+* Java: [Repositório de exercícios](https://github.com/joaoapassos/programacao-de-computadores)
+* React: Começando...
+
 ### Contato
 
 * E-mail de contato: [joaoapassjp@gmail.com](mailto:joaoapassjp@gmail.com)
 * LinkedIn: [linkedin.com/joaoapassos](https://www.linkedin.com/in/jo%C3%A3o-alves-passos-259b29258/)
 * Github: [https://github.com/joaoapassos](https://github.com/joaoapassos)
-
-### Estudos
-
-* Java: [Repositório de exercícios](https://github.com/joaoapassos/programacao-de-computadores)
-* React: Começando...
 
 <!--
 **joaoapassos/joaoapassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
