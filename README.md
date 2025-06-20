@@ -1,4 +1,7 @@
-## Hi there 👋
+<div style="display: flex; gap: 10px">
+  <img  src="https://media.licdn.com/dms/image/v2/D4D03AQEXnDUqVPuoWw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713552334007?e=1755734400&v=beta&t=HbfsxrVlTHWXrqHektUVPdcp9MfB9_tP6M9R_-jZ5d0" alt="Foto de perfil">
+  <h2>Olá, Me chamo João, sou estudante de Análise e Desenvolvimento de Sistemas.</h2>
+</div>
 
 <!--
 **joaoapassos/joaoapassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
