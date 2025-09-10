@@ -2,8 +2,9 @@
 
 ### Projetos
 
-* 2025 (Atualmente) - [Projeto Frontend Genericfilms (HTML, CSS, JavaScript)](https://github.com/AJT-Devs/frontend-genericfilms)
-* 2025 (Atualmente) - [Projeto Backend Genericfilms (Node.js, Express, Puppeteer, Multer, QRcode, JWT, Bcrypt, Zod, Prisma)](https://github.com/AJT-Devs/backend-genericfilms)
+<!--* 2025.2 (Atualmente) - [Simples Gerenciador De Contas Bancaria (HTML, CSS, Java, Spring)()]-->
+* 2025.1 - [Projeto Frontend Genericfilms (HTML, CSS, JavaScript)](https://github.com/AJT-Devs/frontend-genericfilms)
+* 2025.1 - [Projeto Backend Genericfilms (Node.js, Express, Puppeteer, Multer, QRcode, JWT, Bcrypt, Zod, Prisma)](https://github.com/AJT-Devs/backend-genericfilms)
 * 2023 - [Projeto Frontend X GAIN (HTML, CSS, JavaScript)](https://github.com/X-GAIN/FrontEnd-Xgain)
 
 ### Tecnologias
