@@ -17,8 +17,8 @@
 
 ### Estudos
 
-* Java: [Repositório de exercícios](https://github.com/joaoapassos/programacao-de-computadores)
-* React: Começando...
+* Java
+* React
 
 ### Contato
 
